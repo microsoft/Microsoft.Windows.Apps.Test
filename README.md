@@ -1,3 +1,20 @@
+Windows Apps Test Library
+===========
+
+The Windows Apps Test Library provides functionality to test the UI of Windows applications. It is used by the [Windows Application Driver](https://github.com/Microsoft/WinAppDriver) to support Selenium-like UI Test Automation on Windows Applications.
+
+The [Windows Application Driver](https://github.com/Microsoft/WinAppDriver) is the recommended way to write UI Test Automation for Windows Applications.
+
+This library is available as a NuGet package, see below.
+
+## Nuget Packages
+NuGet is the standard package manager built into Visual Studio.
+
+This repo provides information for the following NuGet packages:
+
+ NuGet Package Name | Description |
+| --- | --- |
+| [Microsoft.Windows.Apps.Test](https://www.nuget.org/packages/Microsoft.Windows.Apps.Test) | Functionality to test the UI of Windows applications. |
 
 # Contributing
 
@@ -17,8 +34,9 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content
 in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode),
-see the [LICENSE](LICENSE) file, and grant you a license to any code in the repository under the [MIT License](https://opensource.org/licenses/MIT), see the
-[LICENSE-CODE](LICENSE-CODE) file.
+see the [LICENSE](LICENSE) file, grant you a license to any code in the repository under the [MIT License](https://opensource.org/licenses/MIT), see the
+[LICENSE-CODE](LICENSE-CODE) file and grant you a license to develop and test your applications under the Microsoft Software License Terms, see the 
+[LICENSE-NUGET](LUCENSE_NUGET.md) file.
 
 Microsoft, Windows, Microsoft Azure and/or other Microsoft products and services referenced in the documentation
 may be either trademarks or registered trademarks of Microsoft in the United States and/or other countries.
