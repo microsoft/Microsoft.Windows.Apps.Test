@@ -35,7 +35,7 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content
 in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode),
 see the [LICENSE](LICENSE) file, grant you a license to any code in the repository under the [MIT License](https://opensource.org/licenses/MIT), see the
-[LICENSE-CODE](LICENSE-CODE) file and grant you a license to develop and test your applications under the Microsoft Software License Terms, see the 
+[LICENSE-CODE](LICENSE-CODE) file and grant you a license to use the NuGet package to develop and test your applications under the Microsoft Software License Terms, see the 
 [LICENSE-NUGET](LUCENSE_NUGET.md) file.
 
 Microsoft, Windows, Microsoft Azure and/or other Microsoft products and services referenced in the documentation
