@@ -16,6 +16,10 @@ This repo provides information for the following NuGet packages:
 | --- | --- |
 | [Microsoft.Windows.Apps.Test](https://www.nuget.org/packages/Microsoft.Windows.Apps.Test) | Functionality to test the UI of Windows applications. |
 
+## Documentation
+
+Usage documentation can be found here: [Microsoft.Windows.Apps.Test.chm](docs/Microsoft.Windows.Apps.Test.chm).
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
